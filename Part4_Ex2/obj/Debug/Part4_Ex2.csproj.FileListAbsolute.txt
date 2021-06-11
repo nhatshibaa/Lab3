@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\Lab3\Part4_Ex2\bin\Debug\Part4_Ex2.exe
+C:\Users\NHAT\RiderProjects\Lab3\Part4_Ex2\bin\Debug\Part4_Ex2.pdb
+C:\Users\NHAT\RiderProjects\Lab3\Part4_Ex2\obj\Debug\Part4_Ex2.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\Lab3\Part4_Ex2\obj\Debug\Part4_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\Lab3\Part4_Ex2\obj\Debug\Part4_Ex2.exe
+C:\Users\NHAT\RiderProjects\Lab3\Part4_Ex2\obj\Debug\Part4_Ex2.pdb
